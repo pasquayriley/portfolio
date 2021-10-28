@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap Resume Page Template</title>
+    <!-- Bootstrap -->
+    <link href="bootstrap-4.4.1.css" rel="stylesheet">
+	  <link href="code for submit button.php" rel=""> 
+	  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <hr>
+      <div class="row">
+        <div class="col-6">
+          <h1>Riley Pasquay</h1>
+			<h9> She/Her</h9>
+        </div>
+        <div class="col-6">
+          <p class="text-right"><a href="" download rel="noopener noreferrer" target="_blank">Download my Resume</a></p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12">
+          <div class="media">
+            <img class="mr-3" src="resume photo.jpg" alt="resume photo">
+            <div class="media-body">
+              <h5 class="mt-0">Web Design and Development Undergraduate</h5>
+              Hello! My name is Riley Pasquay. I am currently attending Thomas Jefferson University - East Falls Campus. My major is Web Design and Development with a minor in Psychology. 
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-12">
+          <div class="row justify-content-md-around m-1">
+     
+              <strong>Riley Pasquay</strong><br>
+              4201 Henry Ave Philau Univ # 2247<br>
+              Philadelphia, PA 19144<br>
+              <abbr title="Phone">P:</abbr> (610) 331-5022<br>
+              <a href="mailto:Rileypasquay@gmail.com">Rileypasquay@gmail.com</a>
+          
+          </div>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-md-6 col-sm-12">
+          <h2>Education</h2>
+          <hr>
+          <div class="row">
+            <div class="col-6">
+              <h4>Penncrest High School</h4>
+            </div>
+            <div class="col-6">
+              <h5 class="text-right"><span aria-hidden="true"></span> Sept 2016 - May 2020</h5>
+            </div>
+          </div>
+          <h5><span class="badge badge-secondary">High School Diploma </span></h5>
+          <p> I focused in STEM and took many computer science classes including: Web development, Computer Programming, and robotics. I have coded many websites although sadly they were all deleted by the school. Along with the websites I hand made an electric guitar and remote control race car. While being in many clubs one that stands out was World Language Honor Society for Chinese where I was a tutor. </p>
+          <div class="row">
+            <div class="col-6">
+              <h4>Kanbar College of Design and Engineering</h4>
+            </div>
+            <div class="col-6">
+              <h5 class="text-right"><span aria-hidden="true"></span> Aug 2020 - Present</h5>
+            </div>
+          </div>
+          <h5><span class="badge badge-secondary">Bachelors</span></h5>
+          <p>I am currently attending Thomas Jefferson University for a bachelors in Web Design and Development. I have already obtained a minor in psychology and plan on getting another minor preferably in Spanish.</p>
+        </div>
+        <div class="col-md-6 col-sm-12">
+          <h2>Skill Set</h2>
+          <hr>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%"> HTML 5</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%"> JAVASCRIPT</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%"> CSS</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"> WORDPRESS</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 55%"> WIX</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%"> PHOTOSHOP</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%"> ILLUSTRATOR</div>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <h2>Work Experience</h2>
+      <hr>
+      <div class="row">
+        <div class="col-md-6 col-sm-12">
+          <div class="row">
+            <div class="col-5">
+              <h4>Brusters Real Ice Cream</h4>
+            </div>
+            <div class="col-6">
+              <h5 class="text-right"><span aria-hidden="true"></span> Oct 2018 - Aug 2021</h5>
+            </div>
+          </div>
+          <h5><span class="badge badge-secondary">Ice Cream Scooper</span></h5>
+          <p>This was one of my first real jobs for a company. I learned how to deal with onsite problems that would happen when I was in charge. While I did a multitude of things while working here, some examples are:</p>
+          <ul>
+            <li>Cashier</li>
+            <li>Inventory</li>
+            <li>Stocking.</li>
+			<li>Janitor</li>
+          </ul>
+        </div>
+        <div class="col-md-6 col-sm-12">
+          <div class="row">
+            <div class="col-5">
+              <h4>Dunkin</h4>
+            </div>
+            <div class="col-6">
+              <h5 class="text-right"><span aria-hidden="true"></span> Nov 2020 - Aug 2021</h5>
+            </div>
+          </div>
+          <h5><span class="badge badge-secondary">Front Manager/Barista </span></h5>
+          <p>After just two months of working here I was promoted to the store front manager. I was one of two that opened the store every morning. Being quick on my feet and further learning how to deal with situations fast without bring commotion was only a small part of the role I played. I trained new employees, was a translator for non-english speaking customers, and also ran the drive through and the cafe.</p>
+        </div>
+      </div>
+      <hr>
+      <h2>Skills</h2>
+      <hr>
+      <div class="row">
+        <div class="col-md-15 col-sm-12">
+          <div class="row">
+            <div class="col-5">
+				<li class="text-center"><span aria-hidden="true"></span> Customer Service</li>
+				<li class="text-center"><span aria-hidden="true"></span> Problem Solving</li>
+            </div>
+            <div class="col-6">
+              <li class="text-center"><span aria-hidden="true"></span> Multilingual</li>
+			  <li class="text-center"><span aria-hidden="true"></span> Adaptability</li>
+			  <li class="text-center"><span aria-hidden="true"></span> Effective Communication</li>
+            </div>
+          </div>
+      </div>
+	  <hr>
+      <h2>Activities</h2>
+      <hr>
+		  <div class= "container">
+			<li class="text-Left"><span aria-hidden="true"></span>
+				Penn Image-Guided Intervention Lab (June 2019 - September 2019); 40+ Hours a Week
+			  </li>
+			  <h10 class="text-secondary"><span aria-hidden="true"></span> Laboratory researcher in an oncology laboratory of Dr.Terrance Gade at the Universisty of Pennsylvania. </h10>
+			<li class="text-Left"><span aria-hidden="true"></span>
+				Student Ambassador on Education First cultural Immersion Tip to China
+			  </li>
+			  <h10 class="text-secondary"><span aria-hidden="true"></span> Was a representative for Penncrest High School while traveling through China. </h10>
+			  <li class="text-Left"><span aria-hidden="true"></span>
+				Multilingual; speaks English, Spanish, Chinese and Italian.
+			  </li>
+      <hr>
+      <h2>Contact</h2>
+      <hr>
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-8  col-12 jumbotron">
+            <form action="https://formsubmit.co/rileypasquay@gmail.com" method="POST">
+              <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
+              </div>
+              <div class="form-group">
+                <label for="email">E-Mail</label>
+                <input type="email" class="form-control" id="email" name="email" placeholder="Email Address" aria-describedby="emailHelp" required>
+                <span id="emailHelp" class="form-text text-muted" style="display: none;">rileypasquay@gmail.com</span>
+              </div>
+              <div class="form-group">
+                <label for="message">Message</label>
+                <textarea rows="10" cols="100" class="form-control" id="message" name="message" placeholder="Message" aria-describedby="messageHelp" required></textarea>
+                <span id="messageHelp" class="form-text text-muted" style="display: none;">Thank you for contacting me! I will get back at my earliest convenience</span>
+              </div>
+              <div class="text-center"> 
+               <button type="submit" class="btn btn-primary">Submit <a href="code for submit button.php"></a>  </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <footer class="text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <p>Copyright © RileyPasquay. All rights reserved.</p>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.4.1.js"></script>
+	<script src="code for submit button.php"></script>
+		</div></div>
+  </body>
+</html>
